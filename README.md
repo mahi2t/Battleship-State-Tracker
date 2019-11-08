@@ -78,9 +78,9 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 		   "length":3
 		}
 
->Possible values for Orientation:<br>
->
->- horizontal<br>
+Possible values for Orientation:<br>
+
+- horizontal<br>
 - vertical<br>
 
 
