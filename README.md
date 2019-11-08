@@ -40,9 +40,8 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 <table style="width: 400px;">
     <thead>
         <tr>
-        <th style="width: 35px;">Status Code</td>
-        <th>Response Message</td>
-
+	<th style="width: 35px;">Status Code</td></th>
+        <th>Response Message</td></th>
         </tr>
     </thead>
     <tbody>
@@ -91,9 +90,8 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 <table style="width: 400px;">
     <thead>
         <tr>
-        <th style="width: 35px;">Status Code</td>
-        <th>Response Message</td>
-
+	<th style="width: 35px;">Status Code</td></th>
+        <th>Response Message</td></th>
         </tr>
     </thead>
     <tbody>
@@ -128,12 +126,12 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 ***Response :***
 
 <table style="width: 400px;">
-    <thead>
+     <thead>
         <tr>
-        <th style="width: 35px;">Status Code</td>
-        <th>Response Message</td>
-
+	<th style="width: 35px;">Status Code</td></th>
+        <th>Response Message</td></th>
         </tr>
+    </thead>
     </thead>
     <tbody>
         <tr>
