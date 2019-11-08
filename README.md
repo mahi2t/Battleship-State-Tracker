@@ -70,13 +70,13 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 ***Request Method:*** POST <br>
 ***Request Body:*** <br>
 
-		{
-			"orientation": "horizontal",
-			"position": {
-				"x": 8,
-				"y": 8
-						},
-			"length":3
+		{ 
+		   "orientation":"horizontal",
+		   "position":{ 
+		      "x":8,
+		      "y":8
+		   },
+		   "length":3
 		}
 
 >Possible values for Orientation:<br>
