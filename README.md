@@ -1,5 +1,4 @@
 # Battleship State Tracker 
----
 
 This is a <strong> Battleship State Tracking API</strong> which enables to simulate a battleship game with provision to <br>
 
