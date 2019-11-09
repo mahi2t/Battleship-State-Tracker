@@ -25,7 +25,7 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 ## API endpoint details
 
 #### CreateBoard Endpoint
-***URL:*** <a href="http://localhost:26476/api/tracker/createboard">http://localhost:26476/api/tracker/createboard</a><br>
+***URL:*** <a href="http://localhost:26476/api/tracker/createboard">~/api/tracker/createboard</a><br>
 ***Description:*** Creates a N X N battleboard with the given size(N) <br> 
 ***Request Method:*** POST <br>
 ***Request Body:*** <br>
@@ -64,7 +64,7 @@ This is a <strong> Battleship State Tracking API</strong> which enables to simul
 
 
 #### AddShip Endpoint
-***URL:*** <a href="http://localhost:26476/api/tracker/addship">http://localhost:26476/api/tracker/addship</a><br>
+***URL:*** <a href="http://localhost:26476/api/tracker/addship">~/api/tracker/addship</a><br>
 ***Description:*** Adds ship to the board if the input is valid and ship is not already present on board <br> 
 ***Request Method:*** POST <br>
 ***Request Body:*** <br>
@@ -111,7 +111,7 @@ Possible values for Orientation:<br>
 
 
 #### Attack Endpoint
-***URL:*** <a href="http://localhost:26476/api/tracker/attack">http://localhost:26476/api/tracker/attack</a><br>
+***URL:*** <a href="http://localhost:26476/api/tracker/attack">~/api/tracker/attack</a><br>
 ***Description:*** Attack the ship by providing the coordinates, if a ship exists in that position then responds with a <strong>"HIT"</strong> else <strong>"MISS"</strong>. When the hit is the last block of the ship then <strong>"Hit, Ship drowned"</strong> is returned<br> 
 ***Request Method:*** POST <br>
 ***Request Body:*** <br>
